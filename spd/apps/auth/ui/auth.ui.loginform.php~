@@ -1,0 +1,25 @@
+<div class="login-wrapper">
+		<form id="form-login" name="form-login" action="#" method="post">
+			
+			<h3>Logidn</h3>
+			<hr/>
+			<div class="control-group">
+				<div class="controls">
+					<input type="text" placeholder="Username" id="login_name" name="login_name" class="input-block-level" />
+				</div>
+			</div>
+			<div class="control-group">
+				<div class="controls">
+					<input type="password" placeholder="Password" id="login_password" name="login_password" class="input-block-level" />
+				</div>
+			</div>
+				
+       
+			<div class="control-group">
+				<div class="controls">
+					<button type="submit" id="sendButton" class="btn btn-primary input-block-level">Sign In</button>
+				</div>
+			</div>
+			<hr/>
+		</form>
+</div>
